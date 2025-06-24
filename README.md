@@ -1,2 +1,2 @@
-# aws-genai-udacity
-Udacity AWS GenAI final project
+# Report
+Report is in `report.pdf` file. Screenshots are in `screenshots/` directory.
